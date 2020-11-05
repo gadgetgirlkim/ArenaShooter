@@ -1,2 +1,2 @@
 # ArenaShooter
-First GameMaker Tutorial: "fMy Arena Shooter"
+First GameMaker Tutorial: "My Arena Shooter"
